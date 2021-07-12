@@ -80,7 +80,7 @@ class TelegramBot:
                     chat_id = message['chat']['id']
                     first_name = message['chat'].get('first_name')
                     last_name = message['chat'].get('last_name')
-                    language_list = config.language_list
+                    language_list = config.language_list #get supported languages list
                     # username        = message['chat']['username']
                     if("text" in message):
                         now = datetime.now()
