@@ -10,7 +10,7 @@ I used Google Cloud Text-to-Speech service instead
 
 https://cloud.google.com/docs/authentication/getting-started
 
-after downloading, Replace KEY_PATH with the path of the JSON file in .env
+Replace KEY_PATH with the path of the JSON file in .env
 
 ```python
 GOOGLE_APPLICATION_CREDENTIALS = C:\YOUR_CREDENTIALS_FILE.json
@@ -18,11 +18,11 @@ GOOGLE_APPLICATION_CREDENTIALS = C:\YOUR_CREDENTIALS_FILE.json
 
 ## Suport languages
 
-English
 
 For example : To convent hello world to speech , just type ```/usa Hello World```
 
 The Supported languages with the command as below:
+
 ![image](https://user-images.githubusercontent.com/28686176/125229775-0354cf80-e30a-11eb-821b-ec54f2ebb206.png)
 
 FYI:https://cloud.google.com/text-to-speech/docs/voices
