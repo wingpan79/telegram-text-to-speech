@@ -4,7 +4,7 @@ A telegram bot convert text into natural-sounding speech using an API powered by
 
 Reference Tutorial video : https://www.youtube.com/watch?v=Z8t-XGbUFnw
 
-I used google text to speech service instead
+I used Google Cloud Text-to-Speech service instead
 
 ## Create GOOGLE_APPLICATION_CREDENTIALS in .env
 
