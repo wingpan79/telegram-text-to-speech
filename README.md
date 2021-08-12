@@ -18,7 +18,7 @@ GOOGLE_APPLICATION_CREDENTIALS = C:\YOUR_CREDENTIALS_FILE.json
 
 ## Demo
 
-You can Try it in mybot t.me/Toohardtomakeabot just ```/start``` it and send the command ```/say whatever you want to say```
+You can try it in mybot https://t.me/Toohardtomakeabot just ```/start``` it and send the command ```/say whatever you want to say```
 
 ## Suport languages
 
