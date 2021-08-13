@@ -23,7 +23,7 @@ You can try it in mybot https://t.me/Toohardtomakeabot just ```/start``` it and 
 ## Suport languages
 
 
-For example : To convent hello world to speech , just type ```/say usa Hello World```
+For example : To convent hello world to speech and speak in english , just type ```/say usa Hello World```
 
 Supported languages with the command as below:
 
