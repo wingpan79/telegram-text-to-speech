@@ -89,7 +89,7 @@ class TelegramBot:
                               message['text'], dt_string)
                         text = message['text']
                         if(text == "/start"):
-                            answer = "可以將文字轉做語音 唔好一次輸入太多字\n<pre><code class='language-python'>/hka 你想打既字</code></pre>"
+                            answer = "可以將文字轉做語音 不要一次輸入太多字\n<pre><code class='language-python'>/hka 你想打既字</code></pre>"
                             requests.get(
                                 f'{self.__URL}sendMessage?chat_id={chat_id}&text={answer}&parse_mode=HTML')
                         else:
